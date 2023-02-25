@@ -15,7 +15,7 @@
 }
 .bgimage{
 	height: 100vh;
-	background: url(img/imagem-painel.jpge);
+	background: url(Portifolio/img/imagem-painel.jpeg);
 	background-size: cover;
 	position: relative;
 }
